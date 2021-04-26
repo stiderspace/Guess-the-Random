@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5bdee46e-0251-4690-90c3-b1de2a66c430" name="stider.space" url="http://stider.space">
+        <fileTransfer rootFolder="/home/web/web/sites/stider.space/public_html" accessType="SFTP" host="stider.space" port="22" sshConfigId="1e47e765-a8c5-481f-979f-eb1fde350d4d" sshConfig="web@stider.space:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
