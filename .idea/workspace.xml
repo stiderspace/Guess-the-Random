@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfb7d6a3-27bc-4cc4-a11c-5fdbb1f81157" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/Standard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/GameScreen.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/ResultScreen.php" afterDir="false" />
-    </list>
+    <list default="true" id="cfb7d6a3-27bc-4cc4-a11c-5fdbb1f81157" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +75,7 @@
       <workItem from="1619172637307" duration="599000" />
       <workItem from="1619196809090" duration="5066000" />
       <workItem from="1619259671531" duration="7633000" />
-      <workItem from="1619430041742" duration="7456000" />
+      <workItem from="1619430041742" duration="7917000" />
     </task>
     <servers />
   </component>
